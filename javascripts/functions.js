@@ -15,7 +15,6 @@ let maxSoFar = arr[0].length;
 arr.forEach((elem)) => (
   if (elem.length > maxSoFar) {
   maxSoFar = elem.length;
-
 };
 //function 'sumEvens' accepts array and returns even number
 let sumEvens = (numStr) => {

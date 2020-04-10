@@ -1,5 +1,8 @@
 # CIT 281 Project 1
 
+![Octocat (hand-drawn)](images/octocat.png)
+
+[281 Website](https://pages.uoregon.edu/cieran/281/)
 ## Learning Objectives
 
 - Basic Unix Shell commands
