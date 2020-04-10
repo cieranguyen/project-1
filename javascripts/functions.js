@@ -12,10 +12,14 @@ let arrAvg = (arr) => {
 // function arrMax
 let arrMax = (arr) => {
 let maxSoFar = arr[0].length;
-arr.forEach((elem)) => (
+arr.forEach(elem) => {
   if (elem.length > maxSoFar) {
   maxSoFar = elem.length;
-};
+}
+}
+return maxSoFar
+}
+
 //function 'sumEvens' accepts array and returns even number
 let sumEvens = (numStr) => {
   let sum = 0;
